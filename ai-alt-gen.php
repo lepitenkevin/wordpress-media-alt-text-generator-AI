@@ -2,7 +2,7 @@
 /*
 Plugin Name: AI ALT text Generator (openrouter.ai   based   )
 Description: Adds a button to generate AI-based ALT text in Media Library.
-Version: 2.0
+Version: 2.1
 Author: Kevin Victor Lepiten
 Author URI: https://kevinlepiten.com
 */
